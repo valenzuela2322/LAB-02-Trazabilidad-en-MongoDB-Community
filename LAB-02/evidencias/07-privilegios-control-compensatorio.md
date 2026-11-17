@@ -2,7 +2,7 @@
 ```markdown
 # Evidencia 07: Control Compensatorio de Privilegios
 
-* **Estudiante:** [valenzuela anahi]
+* **Estudiante:** [valenzuela zazueta anahi]
 * **Fecha:** 8 de noviembre de 2026
 * **Entorno:** MongoDB 7.0 Community Edition / mongosh
 
