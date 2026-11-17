@@ -1,0 +1,27 @@
+[
+  {
+    "momento": { "$date": "2026-10-25T22:53:12.105Z" },
+    "tomada_por": [ { "user": "admin", "db": "admin" } ],
+    "usuarios": [
+      {
+        "user": "app_ventas",
+        "db": "comercial",
+        "roles": [ { "role": "readWrite", "db": "comercial" } ]
+      }
+    ]
+  },
+  {
+    "momento": { "$date": "2026-10-25T22:53:12.220Z" },
+    "tomada_por": [ { "user": "admin", "db": "admin" } ],
+    "usuarios": [
+      {
+        "user": "app_ventas",
+        "db": "comercial",
+        "roles": [
+          { "role": "dbAdmin", "db": "comercial" },
+          { "role": "readWrite", "db": "comercial" }
+        ]
+      }
+    ]
+  }
+]
